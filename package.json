@@ -2,20 +2,20 @@
   "name": "quickly",
   "version": "1.0.0",
   "description": "- Try to click on circle before it's disappear.",
-  "homepage": "https://namthit98.github.io/quicky-game/",
+  "homepage": "https://namthit98.github.io/quickly-game/",
   "main": "app.js",
   "scripts": {
     "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/namthit98/quicky-game.git"
+    "url": "git+https://github.com/namthit98/quickly-game.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/namthit98/quicky-game/issues"
+    "url": "https://github.com/namthit98/quickly-game/issues"
   },
   "dependencies": {
     "gh-pages": "^1.2.0"
